@@ -1,24 +1,49 @@
-.App {
-  text-align: center;
+body {
+	background-image: url('http://i.imgur.com/nqStl40.jpg');
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.card__container {
+	width: 100%;
+	display: flex;
+	flex-flow: wrap;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.card {
+	position: relative;
+	background: #fff;
+	min-width: 250px;
+	margin: 10px;
 }
 
-.App-intro {
-  font-size: large;
+.card__background {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 80%;
+	height: 80%;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.card__background.Oxide {
+	background: yellow;
+}
+
+.card__background.Isotope {
+	background: red;
+}
+
+.card__background.Alloy {
+	background: orange;
+}
+
+.card__background.Silicate {
+	background: blue;
+}
+
+.card__background.Neutral {
+	background: lime;
+}
+
+.card__background.Precious {
+	background: purple;
 }

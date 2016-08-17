@@ -6,9 +6,141 @@
 		"value": "13.8"
 	},
 	{
+		"name": "Zinc",
+		"chemical": "Zn",
+		"type": "Oxide",
+		"value": "41.3"
+	},
+	{
+		"name": "Titanium",
+		"chemical": "Ti",
+		"type": "Oxide",
+		"value": "61.9"
+	},
+	{
+		"name": "Herox",
+		"chemical": "Hx",
+		"type": "Alloy",
+		"value": "-"
+	},
+	{
+		"name": "Crolium",
+		"chemical": "Cr",
+		"type": "Alloy",
+		"value": "-"
+	},
+	{
+		"name": "Aronium",
+		"chemical": "Ar",
+		"type": "Alloy",
+		"value": "-"
+	},
+	{
+		"name": "Lemmium",
+		"chemical": "Le",
+		"type": "Alloy",
+		"value": "-"
+	},
+	{
+		"name": "Magmox",
+		"chemical": "Mg",
+		"type": "Alloy",
+		"value": "-"
+	},
+	{
+		"name": "Heridium",
+		"chemical": "Hr",
+		"type": "Silicate",
+		"value": "27.5"
+	},
+	{
+		"name": "Platinum",
+		"chemical": "Pt",
+		"type": "Silicate",
+		"value": "55"
+	},
+	{
+		"name": "Chrysonite",
+		"chemical": "Ch",
+		"type": "Silicate",
+		"value": "82.5"
+	},
+	{
 		"name": "Plutonium",
 		"chemical": "Pu",
 		"type": "Isotope",
 		"value": "41.3"
+	},
+	{
+		"name": "Carbon",
+		"chemical": "C",
+		"type": "Isotope",
+		"value": "6.9"
+	},
+	{
+		"name": "Thamium9",
+		"chemical": "Th",
+		"type": "Isotope",
+		"value": "20.6"
+	},
+	{
+		"name": "Copper",
+		"chemical": "Cu",
+		"type": "Neutral",
+		"value": "110"
+	},
+	{
+		"name": "Nickel",
+		"chemical": "Ni",
+		"type": "Neutral",
+		"value": "137"
+	},
+	{
+		"name": "Iridium",
+		"chemical": "Ir",
+		"type": "Neutral",
+		"value": "96.3"
+	},
+	{
+		"name": "Gold",
+		"chemical": "Au",
+		"type": "Neutral",
+		"value": "220"
+	},
+	{
+		"name": "Aluminum",
+		"chemical": "Al",
+		"type": "Neutral",
+		"value": "165"
+	},
+	{
+		"name": "Emeril",
+		"chemical": "Em",
+		"type": "Neutral",
+		"value": "275"
+	},
+	{
+		"name": "Calium",
+		"chemical": "Ca",
+		"type": "Precious",
+		"value": "-"
+	},
+	{
+		"name": "Murrine",
+		"chemical": "Mu",
+		"type": "Precious",
+		"value": "-"
+	},
+	{
+		"name": "Omegon",
+		"chemical": "Om",
+		"type": "Precious",
+		"value": "-"
+	},
+	{
+		"name": "Radnox",
+		"chemical": "Ra",
+		"type": "Precious",
+		"value": "-"
 	}
 ]

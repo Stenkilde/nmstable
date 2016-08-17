@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { collection } from '../services/elements';
-import map from 'lodash/map';
 import './App.css';
 
 class App extends Component {
@@ -8,7 +7,9 @@ class App extends Component {
         super();
 
         this.state = {
-            table: {}
+            table: [],
+            asd: 123,
+            fdsa: 324
         };
     }
 
@@ -24,13 +25,17 @@ class App extends Component {
   render() {
     const {table} = this.state;
 
-    console.log(table);
-
     return (
-        <div>
+        <div className="card__container">
             {table.map((element, index) => {
                 return (
-                    <h1 key={index}>{element.name}</h1>
+                    <div key={index} className="card">
+                        <h2>{element.name}</h2>
+                        <h3>{element.chemical}</h3>
+                        <h3>{element.type}</h3>
+                        <h3>{element.value}</h3>
+                        <div className={'card__background ' + element.type}></div>
+                    </div>
                 );
             })}
         </div>
