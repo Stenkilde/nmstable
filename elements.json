@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Iron",
+		"chemical": "Fe",
+		"type": "Oxide",
+		"value": "13.8"
+	},
+	{
+		"name": "Plutonium",
+		"chemical": "Pu",
+		"type": "Isotope",
+		"value": "41.3"
+	}
+]
