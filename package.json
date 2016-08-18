@@ -10,7 +10,9 @@
     "bluebird": "^3.4.1",
     "lodash": "^4.15.0",
     "react": "^15.2.1",
-    "react-dom": "^15.2.1"
+    "react-dom": "^15.2.1",
+    "react-gateway": "^2.3.0",
+    "react-modal2": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
