@@ -1,4 +1,7 @@
-.my-custom-backdrop-class {
+@import 'https://fonts.googleapis.com/css?family=Hind+Guntur';
+
+
+.modal__background {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -7,7 +10,8 @@
 	background: rgba(0, 0, 0, .5);
 }
 
-.my-custom-modal-class {
+.modal {
+	display: flex;
 	position: fixed;
 	top: 50%;
 	left: 50%;
@@ -15,4 +19,44 @@
 	width: 50%;
 	height: 50%;
 	background: #fff;
+	font-family: 'Hind Guntur', sans-serif;
+	outline: none;
+	height: 400px;
+}
+
+.modal__header {
+	margin: 20px 20px 0;
+	line-height: 1;
+}
+
+.modal__subheader {
+	font-size: 16px;
+	margin: 0;
+	line-height: 1;
+	color: #dadada;
+	margin-left: 20px;
+}
+
+.modal__description {
+	line-height: 1.2;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.button__close {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	background: transparent;
+	border: none;
+	outline: none;
+}
+
+
+.slider-frame, .slider-list, .slider-slide, .modal__image {
+	height: 400px !important;
+}
+
+.modal__image {
+	object-fit: cover;
 }

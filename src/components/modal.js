@@ -17,8 +17,8 @@ export default class Modal extends React.Component {
           onClose={this.props.onClose}
           closeOnEsc={this.props.closeOnEsc}
           closeOnBackdropClick={this.props.closeOnEsc}
-          backdropClassName='my-custom-backdrop-class'
-          modalClassName='my-custom-modal-class'>
+          backdropClassName='modal__background'
+          modalClassName='modal'>
           {this.props.children}
         </ReactModal2>
       </Gateway>

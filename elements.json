@@ -3,144 +3,360 @@
 		"name": "Iron",
 		"chemical": "Fe",
 		"type": "Oxide",
-		"value": "13.8"
+		"value": "13.8",
+		"description": "Mined element used to build and recharge defensive technologies. <br><br> Note: Iron may also be obtained by dismantling various items.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Zinc",
 		"chemical": "Zn",
 		"type": "Oxide",
-		"value": "41.3"
+		"value": "41.3",
+		"description": "Powerful element used to recharge defensive technologies, and to create and maintain many components and devices.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Titanium",
 		"chemical": "Ti",
 		"type": "Oxide",
-		"value": "61.9"
+		"value": "61.9",
+		"description": "Extremely powerful oxide that can be used to recharge defensive technologies. <br><br> A vital ingredient in the creation of many advanced products and components. <br><br> Found in yellow crystal clusters during planetary exploration.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Herox",
 		"chemical": "Hx",
 		"type": "Alloy",
-		"value": "-"
+		"value": "-",
+		"description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Forms the backbone of galactic alloy trading. It is also used as an ingredient in the alloy Terumin.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Crolium",
 		"chemical": "Cr",
 		"type": "Alloy",
-		"value": "-"
+		"value": "-",
+		"description": "Iron (Fe) is a common metal and a member of the Oxide class.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Aronium",
 		"chemical": "Ar",
 		"type": "Alloy",
-		"value": "-"
+		"value": "-",
+		"description": "Crolium is a highly resistant and durable alloy primarily used in starship hull construction and deep-space exploration drone technology. The crolium trading market is a strong force within the overall Galactic Trading Network.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Lemmium",
 		"chemical": "Le",
 		"type": "Alloy",
-		"value": "-"
+		"value": "-",
+		"description": "Heavy metal alloy. Used extensively in starship freighter constriction due to its sheer strength. A hardcore material popular on the Galactic Trade Network.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Magmox",
 		"chemical": "Mg",
 		"type": "Alloy",
-		"value": "-"
+		"value": "-",
+		"description": "Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. <br><br> Easily recognized by its bright red glow and strong magnetic field",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Heridium",
 		"chemical": "Hr",
 		"type": "Silicate",
-		"value": "27.5"
+		"value": "27.5",
+		"description": "Element used in the creation of components vital to space exploration. <br><br> Found in planetary terrain. Often highlighted by holographic cubes in user's visor after local scans.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Platinum",
 		"chemical": "Pt",
 		"type": "Silicate",
-		"value": "55"
+		"value": "55",
+		"description": "Powerful element used to create valuable ship and exosuit components. A vital ingredient in many technological blueprints",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Chrysonite",
 		"chemical": "Ch",
 		"type": "Silicate",
-		"value": "82.5"
+		"value": "82.5",
+		"description": "A very powerful element used in many advanced technology blueprints, components, and product recipes.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Plutonium",
 		"chemical": "Pu",
 		"type": "Isotope",
-		"value": "41.3"
+		"value": "41.3",
+		"description": "Extremely powerful element that can be used to charge weaponry, mining equipment and exosuit power packs. <br><br> A vital ingredient in the creation of many advanced technologies, components, and products.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Carbon",
 		"chemical": "C",
 		"type": "Isotope",
-		"value": "6.9"
+		"value": "6.9",
+		"description": "Carbon is an important and abundant element used to recharge weaponry, mining equipment, and exosuit life support.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Thamium9",
 		"chemical": "Th",
 		"type": "Isotope",
-		"value": "20.6"
+		"value": "20.6",
+		"description": "Powerful element used to charge mining equipment, weaponry and life support systems. Also used in the creation of products and experimental tech devices, including a Starship's hyperdrive. <br> <br> This element is the only fuel for the Pulse Engine, enabling Pulse Jumps between local solar system points of interest.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Copper",
 		"chemical": "Cu",
 		"type": "Neutral",
-		"value": "110"
+		"value": "110",
+		"description": "Highly conductive and versatile metallic element. <br> <br> A frequent sight in the cargo manifests of traders of many primary galactic species. <br> <br> Can be combined with other elements to create valuable alloys if recipe is available.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Nickel",
 		"chemical": "Ni",
 		"type": "Neutral",
-		"value": "137"
+		"value": "137",
+		"description": "A silvery-white metal used in many industrial processes. <br> <br> Regularly bought, sold, and bargained for on the Galactic Trade Network. <br> <br> Can be combined with other elements to create valuable alloys if recipe is available.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Iridium",
 		"chemical": "Ir",
 		"type": "Neutral",
-		"value": "96.3"
+		"value": "96.3",
+		"description": "A soft, white and lustrous transition metal.<br> <br> A much prized commodity, and popular cargo for many traders.<br> <br> Can be combined with other elements to create valuable alloys if recipe is available.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Gold",
 		"chemical": "Au",
 		"type": "Neutral",
-		"value": "220"
+		"value": "220",
+		"description": "Rare, highly conductive and used decoratively by many of the galaxy's primary species. It is central to the economies of many galactic species, and a prized trading asset. <br> <br> Can be combined with other elements to create valuable alloys if recipe is available.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Aluminum",
 		"chemical": "Al",
 		"type": "Neutral",
-		"value": "165"
+		"value": "165",
+		"description": "A hugely useful, ductile, and versatile metal.<br> <br> Can be found as large planetary rock structures, shiny and white in color.<br> <br> A highly desired element in trading markets and cargo manifests throughout the known galaxy. <br> <br> Can be combined with other elements to create valuable alloys if recipe is available.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Emeril",
 		"chemical": "Em",
 		"type": "Neutral",
-		"value": "275"
+		"value": "275",
+		"description": "A silver-black metal that emits low levels of radiation.<br> <br> A highly sought after element that's used in the construction of planetary outposts.<br> <br> Can be combined with other elements to create valuable alloys if recipe is available.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Calium",
 		"chemical": "Ca",
 		"type": "Precious",
-		"value": "-"
+		"value": "-",
+		"description": "Calium is a rare substance, and can be found on extremely hostile planets.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Murrine",
 		"chemical": "Mu",
 		"type": "Precious",
-		"value": "-"
+		"value": "-",
+		"description": "Valuable commodity known for it's charming qualities.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Omegon",
 		"chemical": "Om",
 		"type": "Precious",
-		"value": "-"
+		"value": "-",
+		"description": "Dark matter element. A hugely powerful, largely unknown and entirely untested substance. It is extremely rare.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	},
 	{
 		"name": "Radnox",
 		"chemical": "Ra",
 		"type": "Precious",
-		"value": "-"
+		"value": "-",
+		"description": "Mysterious and valuable chemical resource.",
+		"images": [
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			},
+			{
+				"url": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6914079/Iron.jpg"
+			}
+		]
 	}
 ]

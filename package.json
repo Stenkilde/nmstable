@@ -9,6 +9,7 @@
     "axios": "^0.13.1",
     "bluebird": "^3.4.1",
     "lodash": "^4.15.0",
+    "nuka-carousel": "^2.0.3",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "react-gateway": "^2.3.0",
