@@ -30,11 +30,12 @@ class App extends Component {
             {table.map((element, index) => {
                 return (
                     <div key={index} className="card">
-                        <h2>{element.name}</h2>
-                        <h3>{element.chemical}</h3>
-                        <h3>{element.type}</h3>
-                        <h3>{element.value}</h3>
-                        <div className={'card__background ' + element.type}></div>
+                        <div className={'card__background ' + element.type}>
+                            <h2 className="card__name">{element.name}</h2>
+                            <h3 className="card__chemical">{element.chemical}</h3>
+                            <h3 className="card__type">{element.type}</h3>
+                            <h3 className="card__value">{element.value}</h3>
+                        </div>
                     </div>
                 );
             })}

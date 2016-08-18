@@ -5,6 +5,7 @@ body {
 .card__container {
 	width: 100%;
 	display: flex;
+	justify-content: center;
 	flex-flow: wrap;
 }
 
@@ -12,7 +13,48 @@ body {
 	position: relative;
 	background: #fff;
 	min-width: 250px;
+	min-height: 250px;
 	margin: 10px;
+	transition: transform .3s ease-in-out;
+}
+
+.card:hover {
+	transform: scale(1.1);
+}
+
+.card__name,
+.card__type,
+.card__chemical,
+.card__value {
+	position: absolute;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+.card__name {
+    font-size: 18px;
+    color: #000;
+    top: -38px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.card__chemical {
+	font-size: 36px;
+	left: 10px;
+	bottom: 0;
+	margin: 0;
+}
+
+.card__type {
+	color: #000;
+	bottom: -42px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.card__value {
+	right: 10px;
 }
 
 .card__background {
@@ -25,25 +67,25 @@ body {
 }
 
 .card__background.Oxide {
-	background: yellow;
+	background: #FFC54E;
 }
 
 .card__background.Isotope {
-	background: red;
+	background: #C1392C;
 }
 
 .card__background.Alloy {
-	background: orange;
+	background: #F98A47;
 }
 
 .card__background.Silicate {
-	background: blue;
+	background: #074CA0;
 }
 
 .card__background.Neutral {
-	background: lime;
+	background: #64C290;
 }
 
 .card__background.Precious {
-	background: purple;
+	background: #702782;
 }
