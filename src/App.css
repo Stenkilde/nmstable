@@ -1,5 +1,11 @@
 body {
 	background-image: url('http://i.imgur.com/nqStl40.jpg');
+	overflow: hidden;
+}
+
+.wrapper {
+	max-height: 100vh;
+	overflow-y: scroll;
 }
 
 .card__container {

@@ -5,6 +5,7 @@ import {
 } from 'react-gateway';
 import { collection } from '../services/elements';
 import ElementCard from './components/card';
+import Help from './components/help';
 import './App.css';
 
 class App extends Component {
@@ -32,13 +33,16 @@ class App extends Component {
 
     return (
         <GatewayProvider>
-            <div className="card__container">
-                {table.map((element, index) => {
-                    return (
-                        <ElementCard element={element} key={index} />
-                    );
-                })}
-                <GatewayDest name="global"/>
+            <div className="wrapper">
+                <Help />
+                <div className="card__container">
+                    {table.map((element, index) => {
+                        return (
+                            <ElementCard element={element} key={index} />
+                        );
+                    })}
+                    <GatewayDest name="global"/>
+                </div>
             </div>
         </GatewayProvider>
     );
